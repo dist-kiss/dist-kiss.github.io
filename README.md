@@ -1,7 +1,3 @@
-## Distance-Keeping: Influence of the StreetScape
-
-### Homepage of the project DIST-KISS ###
-
 ![Images of streetscape interventions in the netherlands](figure1.png)
 
 Project description:
