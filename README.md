@@ -11,8 +11,6 @@ Published articles:
 - Stenkamp, J., Karic, B., Scharf, P., Verstegen, J.A. and Kray, C., 2023. Using an Immersive Video Environment to Assess Pedestrians’ Compliance With COVID Distance Keeping Interventions. Interacting with Computers, iwad021, [https://doi.org/10.1093/iwc/iwad021](https://doi.org/10.1093/iwc/iwad021)
 - Schröder, S., Stenkamp, J., Brüggemann, M., Karic, B., Verstegen, J.A. and Kray, C., 2023. Towards dynamically generating immersive video scenes for studying human-environment interactions. AGILE: GIScience Series, 4, p.40, [https://doi.org/10.5194/agile-giss-4-40-2023](https://doi.org/10.5194/agile-giss-4-40-2023)
 
-The first article includes the results of the user study, conducted at the Institute for Geoinformatics in Münster in February 2022. The study was conducted using an Immersive Video Environment (IVE) (compare [https://github.com/sitcomlab/IVE](https://github.com/sitcomlab/IVE)). The following image shows an exemplary image of footage shown as a video in the IVE and thus on 180-degree screens within the study. The video below shows a transition between two decision points as it was shown in the user study.
+The first article includes the results of the user study, conducted at the Institute for Geoinformatics in Münster in February 2022. The study was conducted using an Immersive Video Environment (IVE) (compare [https://github.com/sitcomlab/IVE](https://github.com/sitcomlab/IVE)). The following image shows an exemplary image of footage shown as a video in the IVE and thus on 180-degree screens within the study. 
 
 ![Study footage example](figures/figure3.PNG)
-
-![Transition example](figures/video1.mp4)
