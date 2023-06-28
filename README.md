@@ -6,5 +6,5 @@ Project description:
 ---
 
 Published articles:
-- Stenkamp, J., Karic, B., Scharf, P., Verstegen, J.A. and Kray, C., 2023. Using an Immersive Video Environment to Assess Pedestrians’ Compliance With COVID Distance Keeping Interventions. Interacting with Computers, iwad021, https://doi.org/10.1093/iwc/iwad021
-- Schröder, S., Stenkamp, J., Brüggemann, M., Karic, B., Verstegen, J.A. and Kray, C., 2023. Towards dynamically generating immersive video scenes for studying human-environment interactions. AGILE: GIScience Series, 4, p.40, https://doi.org/10.5194/agile-giss-4-40-2023
+- Stenkamp, J., Karic, B., Scharf, P., Verstegen, J.A. and Kray, C., 2023. Using an Immersive Video Environment to Assess Pedestrians’ Compliance With COVID Distance Keeping Interventions. Interacting with Computers, iwad021, [https://doi.org/10.1093/iwc/iwad021](https://doi.org/10.1093/iwc/iwad021)
+- Schröder, S., Stenkamp, J., Brüggemann, M., Karic, B., Verstegen, J.A. and Kray, C., 2023. Towards dynamically generating immersive video scenes for studying human-environment interactions. AGILE: GIScience Series, 4, p.40, [https://doi.org/10.5194/agile-giss-4-40-2023](https://doi.org/10.5194/agile-giss-4-40-2023)
